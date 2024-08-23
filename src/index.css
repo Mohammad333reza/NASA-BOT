@@ -199,5 +199,5 @@ footer button:hover {
   }
 }
 /* If we use object-fit: cover; the image keeps its aspect ratio and fills the given dimension. 
-/* inset: top buttom right left, position: relative ; is positioned relative to it's normal position.
-/* linear-gradient: smooth transition btw 2 or more specified colors
+ inset: top buttom right left, position: relative ; is positioned relative to it's normal position.
+inear-gradient: smooth transition btw 2 or more specified colors */
